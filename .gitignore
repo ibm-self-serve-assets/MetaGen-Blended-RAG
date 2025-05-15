@@ -1,0 +1,12 @@
+*.xlsx
+*.json
+*.DS_Store
+*.csv
+*.pkl
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tgz
+*.tar.lz
