@@ -60,6 +60,25 @@ The systematic approach outlined here underscores the robustness and efficacy of
 
 ### 2. RAG Results
 
+### Table 3: RAG accuracy improvements using MetaGen RAG across datasets
+
+| **Dataset**   | **Search + Metadata Variant**                                | **RAG Accuracy (%)** |
+|---------------|--------------------------------------------------------------|-----------------------|
+| **PubMedQA**  | KNN search without any metadata                              | 71.5                  |
+|               | Hybrid search without any metadata                           | 72.33                 |
+|               | Hybrid search only with existing metadata                    | 73.00                 |
+|               | Hybrid search only with enriched metadata                    | 73.73                 |
+|               | Hybrid search with existing + enriched metadata              | 73.73                 |
+|               | Hybrid (boosted) with enriched metadata                      | 73.54                 |
+|               | Hybrid (boosted) with existing metadata                      | 74.53                 |
+|               | Hybrid (boosted) with existing + enriched metadata           | **77.9**              |
+| **NQ**        | Without metadata                                              | 24.77                 |
+|               | With existing metadata                                       | 27.42                 |
+|               | Existing + enriched metadata                                 | **26.71**             |
+| **SQuAD**     | With existing metadata                                       | 57                    |
+|               | Existing + enriched metadata                                 | **58.50**             |
+
+
 
 # Repository Structure
 ## Code
