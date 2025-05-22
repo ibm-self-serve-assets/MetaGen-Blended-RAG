@@ -57,7 +57,7 @@ The systematic approach outlined here underscores the robustness and efficacy of
 | SQuAD                 | 93.3                 | 93.68                         |
 
 
-<p align="center">
+<p align="left">
   <img src="/image/PubmedQA-retrieval-accuracy.png" alt="Architecture Diagram" width="500">
   <br>
   <em>Figure 2: Impact of Metadata Enrichment on Retrieval Accuracy (PubMedQA dataset)</em>
@@ -84,7 +84,7 @@ The systematic approach outlined here underscores the robustness and efficacy of
 |               | Existing + enriched metadata                                 | **58.50**             |
 
 
-<p align="center">
+<p align="left">
   <img src="image/PubmedQA-RAG-accuracy.png" alt="Architecture Diagram" width="500">
   <br>
   <em>Figure 3: Impact of MetaGen Metadata Enrichment on RAG Accuracy (PubMedQA Dataset)</em>
