@@ -108,7 +108,6 @@ The systematic approach outlined here underscores the robustness and efficacy of
 
 ## data
 - **NQ** -This folder contains the NQ dataset.
-- **Squad** -This folder contains the Squad dataset.
 
 ## input
 This module uses various inputs, such as mapping and search_query, to index and search the queries at the index.
