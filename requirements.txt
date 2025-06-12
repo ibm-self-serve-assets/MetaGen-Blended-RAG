@@ -1,0 +1,9 @@
+datasets
+matplotlib
+ibm-watsonx-ai
+elastic
+transformers
+pandas
+scikit-learn
+numpy
+scipy
