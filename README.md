@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Git repository hosts the implementation of the MetaGen Blended Retrieval-Augmented Generation (RAG) pipeline, submitted for consideration at the NeurIPS 2025 conference (URL). MetaGen BlendedRAG significantly enhances traditional RAG methods by leveraging structured metadata enrichment to improve retrieval accuracy and the effectiveness of generative responses.
+This Git repository hosts the implementation of the MetaGen Blended Retrieval-Augmented Generation (RAG) pipeline. MetaGen BlendedRAG significantly enhances traditional RAG methods by leveraging structured metadata enrichment to improve retrieval accuracy and the effectiveness of generative responses.
 
 The MetaGen BlendedRAG approach integrates semantic search and hybrid retrieval methods with enriched metadata derived through advanced NLP techniques and large language models (LLMs). By generating comprehensive and precise metadata, this pipeline facilitates more accurate document indexing and retrieval, directly translating to improved downstream performance.
 
